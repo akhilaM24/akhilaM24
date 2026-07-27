@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **akhilaM24/akhilaM24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -47,4 +47,4 @@ Through internships at **Fiserv, Rutgers University, OpenRisk Technologies, and 
 
 ---
 
-*"I enjoy building software that turns AI into practical tools engineers and businesses can rely on."*
+
