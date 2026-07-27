@@ -52,8 +52,3 @@ React • Angular • TypeScript • Tailwind CSS
 
 * **Email:** [amahidhara@gmail.com](mailto:amahidhara@gmail.com)
 * **LinkedIn:** https://www.linkedin.com/in/akhilamahidhara
-* **Portfolio:** *Coming soon!*
-
----
-
-*"I enjoy building software that turns AI into practical, scalable tools engineers and businesses can rely on."*
