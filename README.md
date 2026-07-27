@@ -1,50 +1,55 @@
+# Hi, I'm Akhila Mahidhara 👋
 
+I'm a **Computer Science and Data Science** student at the **Rutgers University Honors College** passionate about building AI-powered software that solves real engineering problems. My interests include **backend software engineering, AI infrastructure, distributed systems, and intelligent automation**.
 
-<!--
-**akhilaM24/akhilaM24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+* 🎓 **B.S. in Computer Science & Data Science** at Rutgers University (Expected May 2028)
+* 💻 **Software Engineering Intern @ Fiserv**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi, I'm Akhila Mahidhara! 👋
+  * Built an autonomous AI observability agent using **Python, LangGraph, FastAPI, Azure OpenAI, Azure Monitor, and KQL** to investigate production incidents, analyze telemetry, and automate root cause analysis for ACH payment systems.
+  * Developed an **MCP server** that enables AI agents to review codebases, generate production-ready API implementations, and automate software engineering workflows through standardized tool interfaces.
+* 🤖 **Break Through Tech AI Fellow**
 
-🎓 **Computer Science & Data Science Student**
-**Rutgers University Honors College** (Expected May 2028)
+  * Selected for a competitive AI fellowship focused on applying machine learning and software engineering to real-world industry challenges. Collaborating with engineers and industry partners to develop production-oriented AI solutions while strengthening skills in technical communication, teamwork, and end-to-end product development.
+* 🏛️ **AI Product Specialist @ Rutgers University**
 
-I'm passionate about building software that uses AI to solve real-world engineering problems. My interests are in **software engineering, backend systems, AI infrastructure, and intelligent automation**, where I enjoy designing scalable applications that make complex workflows more efficient.
+  * Building AI-powered backend automation systems that process over **10,000 financial documents each month** using Python and SQL to streamline enterprise workflows.
+* 📄 **Former Software Engineering Intern @ OpenRisk Technologies**
 
-Through internships at **Fiserv, Rutgers University, OpenRisk Technologies, and 24-7 OWL**, I've built production AI systems including autonomous observability agents, retrieval-augmented generation (RAG) pipelines, enterprise automation tools, and generative AI applications. I enjoy working across backend development, cloud services, APIs, databases, and LLM-powered systems.
+  * Built retrieval augmented generation pipelines with **LangChain** and **Pydantic** to extract structured data from large financial document collections.
+* 🌐 **Former Software Engineering Intern @ 24-7 OWL**
 
-## 🛠️ Technologies
+  * Developed backend services and a Chrome extension that integrated with a generative AI chatbot to deliver context-aware assistance directly within users' browsers.
 
-**Languages:** Python, Java, C++, C, Go, TypeScript, JavaScript, SQL
+## 🛠️ Tech Stack
 
-**AI & Machine Learning:** LangGraph, LangChain, Azure OpenAI, RAG, Prompt Engineering, Vector Embeddings, Pydantic
+**Languages**
 
-**Backend & Cloud:** FastAPI, Flask, Node.js, REST APIs, Docker, Kubernetes, PostgreSQL, GitHub Actions
+Python • Java • C++ • Go • TypeScript • JavaScript • SQL • C
 
-**Frontend:** React, Angular, TypeScript
+**AI & Machine Learning**
 
-## 🚀 Current Focus
+LangGraph • LangChain • Azure OpenAI • OpenAI API • RAG • Prompt Engineering • Pydantic • Vector Embeddings
 
-* Building AI-powered backend systems
-* Exploring agentic AI and LLM orchestration
-* Learning scalable cloud architecture and distributed systems
-* Preparing for Software Engineering internships for Summer 2027
+**Backend**
+
+FastAPI • Flask • Node.js • REST APIs • PostgreSQL • Docker • Kubernetes • GitHub Actions
+
+**Frontend**
+
+React • Angular • TypeScript • Tailwind CSS
+
+## 🌱 Currently Exploring
+
+* Agentic AI systems
+* MCP servers and AI developer tooling
+* Backend architecture and distributed systems
+* Cloud-native software engineering
+* Enterprise AI platforms
 
 ## 📫 Connect With Me
 
-* **Email:** [amahidhara@gmail.com](mailto:amahidhara@gmail.com)
-* **LinkedIn:** https://www.linkedin.com/in/akhilamahidhara
-
----
-
+* 📧 **Email:** [amahidhara@gmail.com](mailto:amahidhara@gmail.com)
+* 💼 **LinkedIn:** https://www.linkedin.com/in/akhilamahidhara
 
