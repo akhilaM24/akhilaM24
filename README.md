@@ -51,4 +51,4 @@ React • Angular • TypeScript • Tailwind CSS
 ## 📫 Connect With Me
 
 * **Email:** [amahidhara@gmail.com](mailto:amahidhara@gmail.com)
-* **LinkedIn:** https://www.linkedin.com/in/akhilamahidhara
+* **LinkedIn:** https://www.linkedin.com/in/akhila-mahidhara/
