@@ -1,4 +1,4 @@
-# Hi, I'm Akhila Mahidhara 👋
+# Hi, I'm Akhila!
 
 I'm a **Computer Science and Data Science** student at the **Rutgers University Honors College** passionate about building AI-powered software that solves real engineering problems. My interests include **software engineering, backend systems, AI infrastructure, distributed systems, and intelligent automation**.
 
